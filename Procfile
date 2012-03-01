@@ -1,1 +1,1 @@
-web: bin/hubot -a irc -n Shoebot
+web: bin/hubot -a irc -n shoebot
